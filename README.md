@@ -1,3 +1,5 @@
+# TODO - convert to a plugin for reveal.js
+
 CoderDeck
 =========
 Create interactive live-coding presentations for the web.
